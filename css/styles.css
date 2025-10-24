@@ -1,0 +1,74 @@
+.barra{
+	display: flex;
+	position: absolute;
+	background-color: #FFE4C4;
+	border: 1px solid;
+	width: 99%;
+	font-family: arial;
+	justify-content: space-between;
+}
+.portada{
+	background-color: #EDEDE8;
+	display: flex;
+	font-family: arial;
+	padding: 10%;
+}
+.perfil{
+	
+	width: 35px;
+}
+.categorias{
+	font-family: arial;
+	padding-left: 10%;
+}
+h1{
+	font-family: arial;
+}
+h2{
+	font-family: arial;
+}
+.lrecipes{
+	display: flex;
+	font-family: arial;
+	padding-left: 10%;
+}
+.recipebutton{
+	font-family: arial;
+	border-radius: 20px;
+	background-color: transparent;
+	color: orange;
+	border-color: orange;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.newsletter{
+	display: flex;
+	justify-content: space-around;
+	border-radius: 20px;
+	background-color: #C9927A;
+	padding-top: 5%;
+	padding-left: 7%;
+	padding-bottom: 5%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 7%;
+	line-height: 1%;
+}
+.email{
+	font-family: arial;
+	border-radius: 20px;
+	background-color: transparent;
+	border-color: #F9DBC9;
+}
+.botonemail{
+	font-family: arial;
+	border-radius: 20px;
+	background-color: #F9DBC9;
+	border-color: #F9DBC9;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
