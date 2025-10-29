@@ -94,3 +94,21 @@ h2{
       display: block;
       font-size: 12px;
     }
+.autor{
+	background-color: #DDBEA9;
+	display: flex;
+	font-family: arial;
+	padding: 10%;
+	border: 1px solid;
+}
+.peupagina{
+	display: flex;
+	position: absolute;
+	background-color: #FFE4C4;
+	width: 99%;
+	font-family: arial;
+	flex-direction: column;
+	padding-top: 7%;
+	padding-left: 10%;
+	padding-bottom: 7%;
+}
