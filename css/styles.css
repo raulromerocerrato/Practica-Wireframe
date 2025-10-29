@@ -72,3 +72,25 @@ h2{
 	padding-left: 10px;
 	padding-right: 10px;
 }
+.mprecipes{
+	display: flex;
+	font-family: arial;
+	padding-left: 10%;
+	margin-bottom: 5%;
+}
+.textsuperposat {
+    position: absolute;
+    bottom: 5px;
+    left: 10px;
+    padding: 8px 12px;
+    font-size: 20px;
+  }
+  .contenedor{
+  	position: relative;
+    width: 300px;
+    height: 200px;
+  }
+.textsuperposat small {
+      display: block;
+      font-size: 12px;
+    }
